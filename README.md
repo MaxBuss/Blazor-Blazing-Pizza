@@ -13,5 +13,5 @@ In order to run this Blazor Server application locally you will need the followi
 To Start the application:
 
 - Run the following command in the terminal of the project: dotnet watch run
-  or
+- or
 - In VSCode go to run->Start Debugging
